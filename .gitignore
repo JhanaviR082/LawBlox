@@ -1,0 +1,65 @@
+# =====================================
+# Android Frontend
+# =====================================
+# Gradle build files
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local config (SDK paths, secrets)
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Misc / OS
+.DS_Store
+*.apk
+*.ap_
+
+# =====================================
+# Spring Boot Backend
+# =====================================
+# Maven or Gradle build output
+target/
+build/
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+hs_err_pid*
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Spring Boot sensitive configs (optional)
+# Uncomment if you want to keep credentials secret
+ application.properties
+# application.yml
+
+# =====================================
+# Database / SQL
+# =====================================
+# Keep your SQL scripts (lawblox.sql) in repo
+*.sql~      # temporary backup SQL files
+*.dump      # local dumps
+
+# =====================================
+# OS / Misc
+# =====================================
+.DS_Store
+Thumbs.db
+
+
+
