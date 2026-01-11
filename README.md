@@ -5,7 +5,6 @@ The app simplifies complex Indian legal concepts and procedures, helping users u
 
 LawBlox is built as an **educational and guidance-oriented platform**, focusing on Indian statutes, case law, and real-world legal scenarios.
 
----
 <img width="920" height="516" alt="Screenshot 2026-01-11 at 8 41 15 PM" src="https://github.com/user-attachments/assets/1c31f53e-98d8-45ea-91ae-28f0ca5219d1" />
 <img width="928" height="497" alt="Screenshot 2026-01-11 at 8 44 34 PM" src="https://github.com/user-attachments/assets/1c458c69-6860-4110-a069-a77149edb789" />
 
