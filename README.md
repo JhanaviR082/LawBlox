@@ -59,7 +59,6 @@ An interactive legal assistance feature where users can:
 
 ### 🔹 Frontend (Android)
 ![Kotlin](https://img.shields.io/badge/Kotlin-FF69B4?style=flat&logo=kotlin&logoColor=white)
-
 - Android Studio  
 - Kotlin  
 - XML Layouts  
@@ -68,7 +67,6 @@ An interactive legal assistance feature where users can:
 
 ### 🔹 Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-
 - Java  
 - Spring Boot (RESTful APIs)
 
@@ -76,7 +74,6 @@ An interactive legal assistance feature where users can:
 
 ### 🔹 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
 - MySQL  
 
 ---
